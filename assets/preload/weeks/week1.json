@@ -1,0 +1,39 @@
+{
+	"storyName": "Tutorial :D",
+	"hideFreeplay": false,
+	"weekBackground": "stagermx",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"tutorial",
+			"trickymask",
+			[
+				0,
+				80,
+				0
+			]
+		],
+		[
+			"happy-new-year",
+			"trickymerry",
+			[
+				40,
+				120,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "week1"
+}

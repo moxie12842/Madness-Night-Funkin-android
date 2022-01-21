@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"reversal",
+			"grunt",
+			[
+				155,
+				140,
+				255
+			]
+		],
+		[
+			"lyrics",
+			"grunt",
+			[
+				155,
+				140,
+				255
+			]
+		],
+		[
+			"target",
+			"gruntgun",
+			[
+				115,
+				100,
+				215
+			]
+		],
+		[
+			"recharge",
+			"gruntgun",
+			[
+				115,
+				100,
+				215
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "gruntstage",
+	"storyName": "vs grunt",
+	"weekName": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
