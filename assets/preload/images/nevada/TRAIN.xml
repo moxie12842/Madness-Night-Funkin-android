@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TRAIN.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TRAIN ANIN0000" x="10" y="10" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0001" x="10" y="10" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0002" x="10" y="1326" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0003" x="10" y="1326" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0004" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0005" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0006" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0007" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0008" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0009" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0010" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0011" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0012" x="10" y="2642" width="4274" height="1306"/>
+	<SubTexture name="TRAIN ANIN0013" x="10" y="2642" width="4274" height="1306"/>
+</TextureAtlas>
