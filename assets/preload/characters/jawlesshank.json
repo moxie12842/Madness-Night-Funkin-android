@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-269,
+				304
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "JAWLESS UP"
+		},
+		{
+			"offsets": [
+				-45,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "JAWLESS IDLE"
+		},
+		{
+			"offsets": [
+				-121,
+				107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "JAWLESS LEFT"
+		},
+		{
+			"offsets": [
+				-232,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "JAWLESS RIGHT"
+		},
+		{
+			"offsets": [
+				-154,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "JAWLESS DOWN"
+		},
+		{
+			"offsets": [
+				-238,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shoot",
+			"loop": false,
+			"name": "JAWLESS SHOOTING"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hank_sprite_phase_3",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jawlesshank",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		32,
+		42
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

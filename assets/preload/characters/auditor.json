@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				20,
-				10
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Auditor Left"
-		},
-		{
 			"offsets": [
-				-50,
-				-32
+				155,
+				440
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Auditor Down"
-		},
-		{
-			"offsets": [
-				-20,
-				12
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Auditor Up"
-		},
-		{
-			"offsets": [
-				-30,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Auditor Right"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "Auditor Idle"
+			"fps": 24,
+			"name": "idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				337
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				357
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				335
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sign right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-249,
+				497
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Auditor",
+	"image": "characters/auditor",
 	"position": [
-		-150,
-		-170
+		0,
+		350
 	],
-	"healthicon": "face",
+	"healthicon": "auditor",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
-	],
-	"camera_position": [
+		255,
 		0,
 		0
 	],
-	"sing_duration": 6.1,
+	"camera_position": [
+		-90,
+		-360
+	],
+	"sing_duration": 4,
 	"scale": 1
 }

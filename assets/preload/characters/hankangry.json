@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				177
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT ANIM",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE ANIM ANNOYED"
+		},
+		{
+			"offsets": [
+				83,
+				177
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "LEFT ANIM ANGY"
+		},
+		{
+			"offsets": [
+				-59,
+				227
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UP ANIM ANNOYED"
+		},
+		{
+			"offsets": [
+				-59,
+				227
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "UP ANIM ANGY"
+		},
+		{
+			"offsets": [
+				-56,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN ANIM ANNOYED"
+		},
+		{
+			"offsets": [
+				-56,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DOWN ANIM ANGY"
+		},
+		{
+			"offsets": [
+				-120,
+				169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT ANIM ANNOYED"
+		},
+		{
+			"offsets": [
+				-120,
+				169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "RIGHT ANIM ANGY"
+		},
+		{
+			"offsets": [
+				-100,
+				330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "TRANSITION FULL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hank_sprite_phase_2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		0,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

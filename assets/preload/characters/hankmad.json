@@ -1,74 +1,74 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"offsets": [
+				-96,
+				351
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "TRANSITION FULL",
+			"indices": []
+		},
+		{
 			"offsets": [
 				-45,
 				200
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "IDLE ANIM"
+			"loop": false,
+			"name": "IDLE ANIM ANGY"
 		},
 		{
 			"offsets": [
-				83,
-				177
+				-120,
+				169
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "LEFT ANIM"
-		},
-		{
-			"offsets": [
-				-56,
-				109
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "DOWN ANIM"
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT ANIM ANGY"
 		},
 		{
 			"offsets": [
 				-59,
 				227
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "UP ANIM"
+			"loop": false,
+			"name": "UP ANIM ANGY"
 		},
 		{
 			"offsets": [
-				-128,
-				169
+				-56,
+				109
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
 			"indices": [],
-			"name": "RIGHT ANIM"
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN ANIM ANGY"
 		},
 		{
 			"offsets": [
-				-210,
-				294
+				83,
+				177
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "hey",
+			"anim": "singLEFT",
 			"loop": false,
-			"name": "thicc honk"
+			"name": "LEFT ANIM ANGY"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/hank",
+	"image": "characters/hank_sprite_phase_2",
 	"position": [
 		0,
 		350

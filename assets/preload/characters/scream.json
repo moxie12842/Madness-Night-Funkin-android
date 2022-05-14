@@ -2,87 +2,87 @@
 	"animations": [
 		{
 			"offsets": [
-				-45,
-				200
+				155,
+				440
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "IDLE ANIM"
+			"name": "idle dance"
 		},
 		{
 			"offsets": [
-				83,
-				177
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "LEFT ANIM"
-		},
-		{
-			"offsets": [
-				-56,
-				109
+				-180,
+				337
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "DOWN ANIM"
+			"name": "sing down"
 		},
 		{
 			"offsets": [
-				-59,
-				227
+				-82,
+				357
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "singLEFT",
 			"indices": [],
-			"name": "UP ANIM"
+			"name": "sing left"
 		},
 		{
 			"offsets": [
-				-128,
-				169
+				52,
+				335
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "RIGHT ANIM"
+			"name": "sign right"
 		},
 		{
 			"offsets": [
-				-210,
-				294
+				190,
+				437
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				200,
+				437
 			],
 			"indices": [],
-			"fps": 24,
-			"anim": "hey",
+			"fps": 12,
+			"anim": "scream",
 			"loop": false,
-			"name": "thicc honk"
+			"name": "scream"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/hank",
+	"image": "characters/auditorpain",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "hank",
+	"healthicon": "auditor",
 	"flip_x": false,
 	"healthbar_colors": [
-		235,
-		0,
-		40
-	],
-	"camera_position": [
+		255,
 		0,
 		0
+	],
+	"camera_position": [
+		-90,
+		-360
 	],
 	"sing_duration": 4,
 	"scale": 1
