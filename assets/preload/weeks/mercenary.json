@@ -1,0 +1,48 @@
+{
+	"storyName": "The mercenary and his team",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"The Protagonist",
+			"icon-hank",
+			[
+				255,
+				0,
+				33
+			]
+		],
+		[
+			"Insane Combat",
+			"icon-hank",
+			[
+				255,
+				0,
+				33
+			]
+		],
+		[
+			"Depredation",
+			"icon-hank-jawless",
+			[
+				195,
+				35,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"hank",
+		"bf",
+		"gf"
+	],
+	"weekName": "Mercenary"
+}
