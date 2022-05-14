@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BACKGROUND.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GROUND-HILLS0000" x="10" y="10" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0001" x="2735" y="10" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0002" x="5460" y="10" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0003" x="10" y="1369" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0004" x="2735" y="1369" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0005" x="2735" y="1369" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0006" x="5460" y="1369" width="2715" height="1349"/>
+	<SubTexture name="GROUND-HILLS0007" x="10" y="2728" width="2715" height="1349"/>
+</TextureAtlas>
